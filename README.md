@@ -42,7 +42,7 @@ I’m always eager to connect with fellow developers and share insights, so feel
 - **LinkedIn**: [Mohamed Ben Makhlouf](https://www.linkedin.com/in/medbenmakhlouf)
 - **X (Formely Twitter)**: [@medbenmakhlouf](https://twitter.com/medbenmakhlouf)
 - **GitHub**: [@medbenmakhlouf](https://github.com/medbenmakhlouf)
-- **Meduim**: [@medbenmakhlouf](https://meduim.com/medbenmakhlouf)
+- **Meduim**: [@medbenmakhlouf](https://medium.com/medbenmakhlouf)
 
 ---
 
