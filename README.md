@@ -24,15 +24,15 @@ I'm a skilled Frontend Software Engineer based in France, working as a Senior De
 Python, Django Framework, Angular, Ionic, Capacitor, Docker and Aws ECS
 
 ⚡ **Fun fact:**  
-I love sharing Angular insights with the developer community and enjoy discovering new, efficient ways to create user-friendly applications. Outside of coding, you might find me exploring the beautiful landscapes of France!
+I love sharing Angular insights with the developers community and enjoy discovering new and efficient ways to create user-friendly applications. Outside of coding, you might find me exploring the beautiful landscapes of the World!
 
 📝 I regulary write articles on https://medium.com/@medbenmakhlouf
 
 ### ✨ Community Contributions
 I’m actively engaged in open-source and tech communities:
 
-- **[PrimeNG](https://primeng.org/)**: Contributing to component improvements, leveraging the latest Angular features for optimized UI components.
-- **[Django Jazzband](https://github.com/jazzband)**: Collaborating with the community to enhance and maintain Django libraries, helping provide high-quality tools for Django developers.
+- **[PrimeNG](https://primeng.org/)**: Contributing to component improvements and leveraging the latest Angular features for optimized UI components.
+- **[Django Jazzband](https://github.com/jazzband)**: Collaborating with the community to enhance and maintain Django libraries while also helping provide high-quality tools for Django developers.
 
 I’m always eager to connect with fellow developers and share insights, so feel free to reach out!
 
@@ -43,7 +43,7 @@ I’m always eager to connect with fellow developers and share insights, so feel
 - **LinkedIn**: [Mohamed Ben Makhlouf](https://www.linkedin.com/in/medbenmakhlouf)
 - **X (Formely Twitter)**: [@medbenmakhlouf](https://twitter.com/medbenmakhlouf)
 - **GitHub**: [@medbenmakhlouf](https://github.com/medbenmakhlouf)
-- **Meduim**: [@medbenmakhlouf](https://medium.com/@medbenmakhlouf)
+- **Medium**: [@medbenmakhlouf](https://medium.com/@medbenmakhlouf)
 
 ---
 
