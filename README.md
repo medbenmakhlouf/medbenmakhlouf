@@ -16,19 +16,17 @@
   </a>
 </p>
 
-- 📝 I regulary write articles on https://medium.com/@medbenmakhlouf
-
-- 💬 Ask me about **Java, Spring Framework, Angular, React, Jenkins, Docker and Aws ECS**
-
-- ⚡ Fun fact **Geeks about latest developments in Python, Django and Angular**
-
 ## About Me
 
 I'm a skilled Frontend Software Engineer based in France, working as a Senior Developer at **[Engie](https://www.engie.com/)**. With a deep focus on building efficient, user-centered applications, I specialize in Angular development, where I help developers create streamlined and high-performance Angular applications. 
 
+💬 **Ask me about:** 
+Python, Django Framework, Angular, Ionic, Capacitor, Docker and Aws ECS
+
 ⚡ **Fun fact:**  
 I love sharing Angular insights with the developer community and enjoy discovering new, efficient ways to create user-friendly applications. Outside of coding, you might find me exploring the beautiful landscapes of France!
 
+📝 I regulary write articles on https://medium.com/@medbenmakhlouf
 
 ### ✨ Community Contributions
 I’m actively engaged in open-source and tech communities:
