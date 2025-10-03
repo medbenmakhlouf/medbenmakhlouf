@@ -1,5 +1,7 @@
 # 👋 Hello! I'm Mohamed Ben Makhlouf (He/Him)
 
+[![Mohamed Ben Makhlouf profile views](https://u8views.com/api/v1/github/profiles/13701406/views/day-week-month-total-count.svg)](https://u8views.com/github/medbenmakhlouf)
+
 🌍 **Location**: Paris, France  
 👨‍💻 **Role**: Senior Full Stack Developer specializing in Angular at **[Engie](https://www.engie.com/)**  
 ⚙️ **Tech Stack**: Angular, HTML, CSS, TypeScript, JavaScript, Django, Python  
