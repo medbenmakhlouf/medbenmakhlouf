@@ -33,7 +33,7 @@ I love sharing Angular insights with the developers community and enjoy discover
 ### ✨ Community Contributions
 I’m actively engaged in open-source and tech communities:
 
-- **[PrimeNG](https://primeng.org/)**: Contributing to component improvements and leveraging the latest Angular features for optimized UI components.
+- **[Taiga UI](https://taiga-ui.dev/)**: Contributing to component improvements and leveraging the latest Angular features for optimized UI components.
 - **[Django Jazzband](https://github.com/jazzband)**: Collaborating with the community to enhance and maintain Django libraries while also helping provide high-quality tools for Django developers.
 
 I’m always eager to connect with fellow developers and share insights, so feel free to reach out!
