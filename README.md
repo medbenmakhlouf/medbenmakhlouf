@@ -6,11 +6,7 @@
 👨‍💻 **Role**: Senior Full Stack Developer specializing in Angular at **[Engie](https://www.engie.com/)**  
 ⚙️ **Tech Stack**: Angular, HTML, CSS, TypeScript, JavaScript, Django, Python  
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img alt="medbenmakhlouf" src="https://github-profile-trophy-fork-two.vercel.app/?username=medbenmakhlouf"/>
-  </a>
-</p>
+![Mohamed's GitHub Trophy](./profile/trophy.svg)
 
 <p align="left">
   <a href="https://x.com/medbenmakhlouf" target="blank">
