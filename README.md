@@ -51,7 +51,7 @@ I’m always eager to connect with fellow developers and share insights, so feel
 
 ## 📊 GitHub Stats
 
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=medbenmakhlouf&show_icons=true&theme=default&count_private=true)
+![Mohamed's GitHub stats](./profile/stats.svg)
 
 ---
 
