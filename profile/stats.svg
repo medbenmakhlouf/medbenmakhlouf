@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Mohamed Ben Makhlouf's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 5, Total Commits  (last year) : 3171, Total PRs: 472, Total Issues: 48, Contributed to (last year): 15</desc>
+        <desc id="descId">Total Stars Earned: 5, Total Commits  (last year) : 3181, Total PRs: 472, Total Issues: 48, Contributed to (last year): 15</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 92.81447273438515;
+        stroke-dashoffset: 92.81429867281084;
       }
     }
   
